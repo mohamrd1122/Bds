@@ -1,0 +1,6 @@
+{
+  "name": "متابعة ماكينات الإنتاج",
+  "description": "تطبيق لمتابعة ماكينات Bunching (من 1 إلى 21)، وتحديد المقاس، رقم البكرة، وعداد ساعات العمل المستهدفة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
